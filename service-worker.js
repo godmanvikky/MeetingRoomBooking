@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "//godmanvikky.github.io/MeetingRoomBooking/precache-manifest.6f459d66ae85d69ee416c63735d809ef.js"
+  "//godmanvikky.github.io/MeetingRoomBooking/precache-manifest.01d1270bf5dca101971a6351f5efc92a.js"
 );
 
 self.addEventListener('message', (event) => {
